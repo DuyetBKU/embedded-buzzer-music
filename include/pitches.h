@@ -1,4 +1,4 @@
-// pitches.h
+// pitches.h || create pitch definition for buzzer
 
 #define B0 31
 #define C1 33
