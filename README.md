@@ -49,7 +49,7 @@ The `main.ino` file contains:
 
 1. Open **Arduino IDE**
 2. Select **Board**: Arduino Uno / ESP32
-3. Select the correct **Port**
+3. Select the correct **Port (COM5, COM8, ...)** 
 4. Download the `pitches.h` file (included in the repo)
 5. Upload the code to your board and enjoy the music 🎶
 
